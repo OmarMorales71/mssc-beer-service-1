@@ -1,4 +1,4 @@
-package guru.springframework.msscbeerservice.event;
+package guru.springframework.msscbeerservice.events;
 
 import guru.springframework.msscbeerservice.web.model.BeerDto;
 
